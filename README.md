@@ -1,4 +1,4 @@
-🏎️ **F1 Driver Telemetry Analysis:**
+# F1 Driver Telemetry Analysis:
 
 Hello again, this is my AI-powered Formula 1 driver performance project. My goal is to explore real telemetry data to understand how drivers perform on the track, and to eventually build models that can predict performance, detect fatigue, or even analyze driving styles.
 

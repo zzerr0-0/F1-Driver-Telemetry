@@ -18,8 +18,11 @@ This project retrieves official Formula 1 telemetry data using Python and the Fa
 🏎️ Features
 
 > makes use of the FastF1 Python module to retrieve authentic F1 telemetry.
+
 > compares a few drivers' braking, throttle, and speed habits.
+
 > enables the creation of accessible, understandable graphs for visual performance comparison.
+
 > Completely adaptable to dashboards or machine learning algorithms.
 
 🏎️ Requirements:
